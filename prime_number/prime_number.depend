@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1597476938 source:c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\prime number\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597476938 c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\prime number\unity\unity.h
+	"unity_internals.h"
+
+1597476938 c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\prime number\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597480695 source:c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\prime number\src\prime_number.c
+	"prime_number.h"
+
+1597480673 c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\prime number\inc\prime_number.h
+	<stdio.h>
+
+1597479482 source:c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\prime number\test\test.c
+	"unity.h"
+	"prime_number.h"
+
